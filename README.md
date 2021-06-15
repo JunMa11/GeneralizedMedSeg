@@ -7,7 +7,8 @@ Recent progress on domain adaption/generalization for medical image segmentation
 
 |   Date   | First Author | Title |  Conf./Journal  | Code  |
 | :------: | :-------------------------------: | :-----------------: | :-----------------------: | :----------------------: |
-| 20190813 | Qikui Zhu |     Boundary-Weighted Domain Adaptive Neural Network for Prostate MR Image Segmentation     |     [TMI](https://ieeexplore.ieee.org/document/8795525)      |
+| 20190813 | Qikui Zhu |  Boundary-Weighted Domain Adaptive Neural Network for Prostate MR Image Segmentation   |   [TMI](https://ieeexplore.ieee.org/document/8795525) |
+| 20190930 | Tianyang Zhang |  Noise Adaptation Generative Adversarial Network for Medical Image Analysis   |   [TMI](https://ieeexplore.ieee.org/document/8852672) |
 | 20210322 | [M. Bateson](https://scholar.google.com/citations?user=pL1OxtwAAAAJ&hl=en&oi=sra) |     Constrained Domain Adaptation for Image Segmentation     |     [TMI](https://ieeexplore.ieee.org/document/9382339)      |         [Pytorch](https://github.com/mathilde-b/CDA)         |
 | 20210317 |      [Sulaiman Vesal](https://sulaimanvesal.github.io/)      | Adapt Everywhere: Unsupervised Adaptation of Point-Clouds and Entropy Minimisation for Multi-modal Cardiac Image Segmentation |     [TMI](https://ieeexplore.ieee.org/document/9380742)      |  [Pytorch](https://github.com/sulaimanvesal/PointCloudUDA)   |
 | 20210212 | [Devavrat Tomar](https://scholar.google.com/citations?user=S7DELUgAAAAJ&hl=en&oi=sra) | Self-Attentive Spatial Adaptive Normalization for Cross-Modality Domain Adaptation |     [TMI](https://ieeexplore.ieee.org/document/9354186)      |      [Pytorch](https://github.com/devavratTomar/sasan)       |
