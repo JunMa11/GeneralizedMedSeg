@@ -16,6 +16,7 @@ Recent progress on domain adaption/generalization for medical image segmentation
 | 20200812 | Fuping Wu |  CF Distance: A New Domain Discrepancy Metric and Application to Explicit Domain Adaptation for Cross-Modality Cardiac Image Segmentation   |   [TMI](https://ieeexplore.ieee.org/document/9165963) |
 | 20200723 | Jue Jiang |  PSIGAN: Joint Probabilistic Segmentation and Image Distribution Matching for Unpaired Cross-Modality Adaptation-Based MRI Segmentation   |   [TMI](https://ieeexplore.ieee.org/document/9146572) |
 | 20200713 | Prashant Pandey |  Target-Independent Domain Adaptation for WBC Classification Using Generative Latent Search   |   [TMI](https://ieeexplore.ieee.org/document/9139471) |
+| 20200212 | Ling Zhang |  Generalizing Deep Learning for Medical Image Segmentation to Unseen Domains via Deep Stacked Transformation   |   [TMI](https://ieeexplore.ieee.org/document/8995481) |
 | 20200210 | Cheng Chen |  Unsupervised Bidirectional Cross-Modality Adaptation via Deeply Synergistic Image and Feature Alignment for Medical Image Segmentation   |   [TMI](https://ieeexplore.ieee.org/document/8988158) |
 | 20200117 | Kang Li |  Dual-Teacher++: Exploiting Intra-domain and Inter-domain Knowledge with Reliable Transfer for Cardiac Segmentation   |   [TMI](https://ieeexplore.ieee.org/document/9261435) |
 | 20200114 | Zengqiang Yan |  Enabling a Single Deep Learning Model for Accurate Gland Instance Segmentation: A Shape-Aware Adversarial Learning Framework  |   [TMI](https://ieeexplore.ieee.org/document/8959297) |
