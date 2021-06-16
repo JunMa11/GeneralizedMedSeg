@@ -24,9 +24,6 @@ Recent progress on domain adaption/generalization for medical image segmentation
 | 20200117 | Kang Li |  Dual-Teacher++: Exploiting Intra-domain and Inter-domain Knowledge with Reliable Transfer for Cardiac Segmentation   |   [TMI](https://ieeexplore.ieee.org/document/9261435) | [Pytorch](https://github.com/kli-lalala/Dual-Teacher-) |
 |  201910  | [Abhijit Guha Roy](https://scholar.google.com.hk/citations?user=r2ulM_sAAAAJ&hl=zh-CN&oi=sra) | ‘Squeeze & excite’ guided few-shot segmentation of volumetric images |    [MedIA](https://doi.org/10.1016/j.media.2019.101587)    |    [Pytorch](https://github.com/abhi4ssj/few-shot-segmentation)          |  
 | 20190930 | [Tianyang Zhang](https://scholar.google.com/citations?user=RiLAQnoAAAAJ&hl=zh-CN&oi=sra) |  Noise Adaptation Generative Adversarial Network for Medical Image Analysis   |   [TMI](https://ieeexplore.ieee.org/document/8852672) | [Pytorch](https://github.com/NeilZhang-IMED/NAGAN) |
-| 20190813 | [Qikui Zhu](https://scholar.google.com/citations?user=EhYbflYAAAAJ&hl=zh-CN&oi=sra) |  Boundary-Weighted Domain Adaptive Neural Network for Prostate MR Image Segmentation   |   [TMI](https://ieeexplore.ieee.org/document/8795525) | [Keras](https://github.com/ahukui/BOWDANet) |
-
-
 
 
 
