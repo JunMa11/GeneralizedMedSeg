@@ -7,6 +7,8 @@ Recent progress on domain adaption/generalization for medical image segmentation
 
 |   Date   | First Author | Title |  Conf./Journal  | Code  |
 | :------: | :-------------------------------: | :-----------------: | :-----------------------: | :----------------------: |
+|  202108 | Xiaoting Han | Deep Symmetric Adaptation Network for Cross-modality Medical Image Segmentation|     [TMI](https://ieeexplore.ieee.org/document/9514499)     |      [code](https://github.com/ting2696/Deep-Symmetric-Adaptation-Network)      |
+|   202108   | Rikiya Yamashita | Learning domain-agnostic visual representation for computational pathology using medically-irrelevant style transfer augmentation |  [TMI](https://ieeexplore.ieee.org/document/9503389)  | [Pytorch](https://github.com/rikiyay/style-transfer-for-digital-pathology)  |
 |  202104 | Chenhao Pei | Disentangle domain features for cross-modality cardiac image segmentation|     [MedIA](https://doi.org/10.1016/j.media.2021.102078)     |      [TF](https://github.com/Endless-Hao/DDFSeg)      |
 | 20210322 | [M. Bateson](https://scholar.google.com/citations?user=pL1OxtwAAAAJ&hl=en&oi=sra) |     Constrained Domain Adaptation for Image Segmentation     |     [TMI](https://ieeexplore.ieee.org/document/9382339)      |         [Pytorch](https://github.com/mathilde-b/CDA)         |
 | 20210317 |      [Sulaiman Vesal](https://sulaimanvesal.github.io/)      | Adapt Everywhere: Unsupervised Adaptation of Point-Clouds and Entropy Minimisation for Multi-modal Cardiac Image Segmentation |     [TMI](https://ieeexplore.ieee.org/document/9380742)      |  [Pytorch](https://github.com/sulaimanvesal/PointCloudUDA)   |
