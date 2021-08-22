@@ -1,5 +1,5 @@
 # GeneralizedMedSeg
-Recent progress on domain adaption/generalization for medical image segmentation
+Recent open-source papers on domain adaption/generalization for medical image segmentation
 
 ## Paper and Code
 
