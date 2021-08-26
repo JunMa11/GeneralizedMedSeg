@@ -7,6 +7,7 @@ Recent open-source papers on domain adaption/generalization for medical image se
 
 |   Date   | First Author | Title |  Conf./Journal  | Code  |
 | :------: | :-------------------------------: | :-----------------: | :-----------------------: | :----------------------: |
+|  202108 | Luyan Liu | S-CUDA: Self-Cleansing Unsupervised Domain Adaptation for Medical Image Segmentation|     [MedIA](https://www.sciencedirect.com/science/article/pii/S1361841521002590)     |      [code](https://github.com/zzdxjtu/S-cuda)      |
 |  202108 | Xiaoting Han | Deep Symmetric Adaptation Network for Cross-modality Medical Image Segmentation|     [TMI](https://ieeexplore.ieee.org/document/9514499)     |      [code](https://github.com/ting2696/Deep-Symmetric-Adaptation-Network)      |
 |   202108   | Rikiya Yamashita | Learning domain-agnostic visual representation for computational pathology using medically-irrelevant style transfer augmentation |  [TMI](https://ieeexplore.ieee.org/document/9503389)  | [Pytorch](https://github.com/rikiyay/style-transfer-for-digital-pathology)  |
 |  202104 | Chenhao Pei | Disentangle domain features for cross-modality cardiac image segmentation|     [MedIA](https://doi.org/10.1016/j.media.2021.102078)     |      [TF](https://github.com/Endless-Hao/DDFSeg)      |
