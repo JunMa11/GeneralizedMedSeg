@@ -10,6 +10,7 @@ Recent open-source papers on domain adaption/generalization for medical image se
 |  202108 | Luyan Liu | S-CUDA: Self-Cleansing Unsupervised Domain Adaptation for Medical Image Segmentation|     [MedIA](https://www.sciencedirect.com/science/article/pii/S1361841521002590)     |      [code](https://github.com/zzdxjtu/S-cuda)      |
 |  202108 | Xiaoting Han | Deep Symmetric Adaptation Network for Cross-modality Medical Image Segmentation|     [TMI](https://ieeexplore.ieee.org/document/9514499)     |      [code](https://github.com/ting2696/Deep-Symmetric-Adaptation-Network)      |
 |   202108   | Rikiya Yamashita | Learning domain-agnostic visual representation for computational pathology using medically-irrelevant style transfer augmentation |  [TMI](https://ieeexplore.ieee.org/document/9503389)  | [Pytorch](https://github.com/rikiyay/style-transfer-for-digital-pathology)  |
+|   202107   | Spyridon Thermos | Controllable cardiac synthesis via disentangled anatomy arithmetic |  [arXiv](https://arxiv.org/abs/2107.01748)  | [Pytorch](https://github.com/vios-s/DAA-GAN)  |
 |  202104 | Chenhao Pei | Disentangle domain features for cross-modality cardiac image segmentation|     [MedIA](https://doi.org/10.1016/j.media.2021.102078)     |      [TF](https://github.com/Endless-Hao/DDFSeg)      |
 | 20210322 | [M. Bateson](https://scholar.google.com/citations?user=pL1OxtwAAAAJ&hl=en&oi=sra) |     Constrained Domain Adaptation for Image Segmentation     |     [TMI](https://ieeexplore.ieee.org/document/9382339)      |         [Pytorch](https://github.com/mathilde-b/CDA)         |
 | 20210317 |      [Sulaiman Vesal](https://sulaimanvesal.github.io/)      | Adapt Everywhere: Unsupervised Adaptation of Point-Clouds and Entropy Minimisation for Multi-modal Cardiac Image Segmentation |     [TMI](https://ieeexplore.ieee.org/document/9380742)      |  [Pytorch](https://github.com/sulaimanvesal/PointCloudUDA)   |
@@ -27,6 +28,7 @@ Recent open-source papers on domain adaption/generalization for medical image se
 | 20200117 | Kang Li |  Dual-Teacher++: Exploiting Intra-domain and Inter-domain Knowledge with Reliable Transfer for Cardiac Segmentation   |   [TMI](https://ieeexplore.ieee.org/document/9261435) | [Pytorch](https://github.com/kli-lalala/Dual-Teacher-) |
 |  201910  | [Abhijit Guha Roy](https://scholar.google.com.hk/citations?user=r2ulM_sAAAAJ&hl=zh-CN&oi=sra) | ‘Squeeze & excite’ guided few-shot segmentation of volumetric images |    [MedIA](https://doi.org/10.1016/j.media.2019.101587)    |    [Pytorch](https://github.com/abhi4ssj/few-shot-segmentation)          |  
 | 20190930 | [Tianyang Zhang](https://scholar.google.com/citations?user=RiLAQnoAAAAJ&hl=zh-CN&oi=sra) |  Noise Adaptation Generative Adversarial Network for Medical Image Analysis   |   [TMI](https://ieeexplore.ieee.org/document/8852672) | [Pytorch](https://github.com/NeilZhang-IMED/NAGAN) |
+
 
 
 
